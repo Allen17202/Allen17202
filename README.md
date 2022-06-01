@@ -1,4 +1,4 @@
-# gregory-tyrese-allen
+
 <h1 align="center">Howdy 👋, My name is Gregory Allen</h1>
 <h3 align="center">A Interactive Entertainment Graduate Student from the University of Central Florida</h3>
 
