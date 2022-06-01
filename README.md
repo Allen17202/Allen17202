@@ -1,4 +1,6 @@
 
+![image](https://user-images.githubusercontent.com/54644524/171482224-434f508a-1957-4896-9d30-ef75be3cb54a.png)
+
 <h1 align="center">Howdy 👋, My name is Gregory Allen</h1>
 <h3 align="center">A Interactive Entertainment Graduate Student from the University of Central Florida</h3>
 
