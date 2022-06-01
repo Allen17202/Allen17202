@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning how to use **Blender, Unity and C++**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Allen17202/PortfolioFIEA](https://github.com/Allen17202/PortfolioFIEA)
+- 👨‍💻 All of my projects are available at [[https://github.com/Allen17202/PortfolioFIEA](https://github.com/Allen17202/PortfolioFIEA/tree/main/Portfolio)]([https://github.com/Allen17202/PortfolioFIEA](https://github.com/Allen17202/PortfolioFIEA/tree/main/Portfolio))
 
 - 📫 How to reach me **traquanallen.gtta@knights.ucf.edu**
 
