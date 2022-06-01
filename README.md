@@ -2,7 +2,8 @@
 ![image](https://user-images.githubusercontent.com/54644524/171482224-434f508a-1957-4896-9d30-ef75be3cb54a.png)
 
 <h1 align="center">Howdy 👋, My name is Gregory Allen</h1>
-<h3 align="center">A Interactive Entertainment Graduate Student from the University of Central Florida</h3>
+<h3 align="center">Interactive Entertainment Graduate Student from the University of Central Florida, Expected Graduation Fall 2023</h3>
+<h3 align="center">Computer Science Undergraduate Student from the University of Central Florida, Graduated Spring 2022</h3>
 
 - 🌱 I’m currently learning how to use **Blender, Unity and C++**
 
