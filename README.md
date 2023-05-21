@@ -5,9 +5,9 @@
 <h3 align="center">Interactive Entertainment Graduate Student from UCF, Expected Graduation Fall 2023</h3>
 <h3 align="center">Computer Science Undergraduate Student from UCF, Graduated Spring 2022</h3>
 
-- 🌱 I’m currently learning how to use **Blender, Unity and C++**
+- 🌱 I’m currently learning how to use **Blender, Unity, Unreal, and C++**
 
-- 👨‍💻 All of my projects are available at [PortfolioFIEA](https://github.com/Allen17202/PortfolioFIEA/tree/main/Portfolio)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/Allen17202?tab=repositories)
 
 - 📫 How to reach me **traquanallen.gtta@knights.ucf.edu**
 
