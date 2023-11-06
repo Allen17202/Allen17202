@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/Allen17202?tab=repositories)
 
-- 📫 How to reach me **traquanallen.gtta@knights.ucf.edu**
+- 📫 How to reach me **traquanallen.gtta@gmail.com**
 
 - ⚡ Things That I enjoy: **Cosplaying, 3D Printing, Gaming, Working Out**
 
