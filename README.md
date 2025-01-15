@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently developing in **Blender, Unity, Unreal, C#, and C++**
 
-- 👨‍💻 All of my projects are available at [Repositories](https://github.com/Allen17202?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/Allen17202?tab=repositories) and [Portfolio Website](https://allen17202.github.io/)
 
 - 📫 How to reach me **traquanallen.gtta@gmail.com**
 
