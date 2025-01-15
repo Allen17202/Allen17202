@@ -2,10 +2,11 @@
 ![image](https://user-images.githubusercontent.com/54644524/171482224-434f508a-1957-4896-9d30-ef75be3cb54a.png)
 
 <h1 align="center">Howdy 👋🏾, My name is Gregory Allen 🏳️‍🌈</h1>
-<h3 align="center">Interactive Entertainment Graduate Student from UCF, Expected Graduation Fall 2023</h3>
+<h3 align="center">Computer Science Graduate Student from UCF, Expected Graduation Spring 2028</h3>
+<h3 align="center">Interactive Entertainment Graduate Student from UCF, Graduated Fall 2023</h3>
 <h3 align="center">Computer Science Undergraduate Student from UCF, Graduated Spring 2022</h3>
 
-- 🌱 I’m currently learning how to use **Blender, Unity, Unreal, and C++**
+- 🌱 I’m currently developing in **Blender, Unity, Unreal, C#, and C++**
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/Allen17202?tab=repositories)
 
